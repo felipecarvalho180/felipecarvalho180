@@ -37,8 +37,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" width="48" alt="bootstrap logo"  />
 </div>
 
-###
-<img href="https://github.com/felipecarvalho180/felipecarvalho180/blob/output/snake.svg" alt="Snake animation" />
-
-###
-Profile Readme Generator
