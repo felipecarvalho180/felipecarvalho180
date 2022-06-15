@@ -37,3 +37,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" width="48" alt="bootstrap logo"  />
 </div>
 
+[![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=felipecarvalho180&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)](https://github.com/felipecarvalho180)
+
+[![Felipe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=felipecarvalho&layout=compact&hide_border=true&theme=tokyonight)](https://wakatime.com/@felipecarvalho180)
+
+![](https://visitor-badge.glitch.me/badge?page_id=felipecarvalho180.felipecarvalho180)
+[![wakatime](https://wakatime.com/badge/user/7bdf898e-7280-4b79-b49e-b36c574fa310.svg)](https://wakatime.com/@7bdf898e-7280-4b79-b49e-b36c574fa310)
+
