@@ -14,7 +14,7 @@
 <h4 align="left">Talking about Personal Stuffs:</h4>
 
 ###
-<p align="left">💻 I’m currently working on Atados and Platform Builders;<br>🌱 I’m currently learning React and React Native;<br>💬 Ask me about anything, I am happy to help;<br></p>
+<p align="left">💻 I’m currently working on Atados and Platform Builders;<br>🌱 I’m currently learning React and Golang;<br>💬 Ask me about anything, I am happy to help;<br></p>
 
 ###
 <h4 align="left">Languages and tools:</h4>
