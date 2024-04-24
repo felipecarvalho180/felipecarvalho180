@@ -14,7 +14,7 @@
 <h4 align="left">Talking about Personal Stuffs:</h4>
 
 ###
-<p align="left">💻 I’m currently working on Atados and Platform Builders;<br>🌱 I’m currently learning React and Golang;<br>💬 Ask me about anything, I am happy to help;<br></p>
+<p align="left">💻 I’m currently working on Atados;<br>🌱 I’m currently learning React and Golang;<br>💬 Ask me about anything, I am happy to help;<br></p>
 
 ###
 <h4 align="left">Languages and tools:</h4>
@@ -37,7 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="36" width="48" alt="jest logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </div>
 
